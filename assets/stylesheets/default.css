@@ -16,6 +16,7 @@ table th.sortable-sortEnglishDateTime {
 	cursor: pointer;
 	background-image: url(../images/bg_header_sortable.png);
 	background-repeat: no-repeat;
+	padding-left: 16px;
 }
 
 table th.forwardSort {
